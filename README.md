@@ -4,16 +4,16 @@ O objetivo principal é o atleta poder anotar todos os detalhes do seu treino no
 Ele foi desenvolvido para fornecer a funcionalidade de sincronizar o seus treinos com o seu descanso e dieta em uma so aplicação.
 
 # Funcionalidades 
-Cadastrar o o tipo de esporte/pratica realizada
-Cadastrar series, pesos e tempo realizado
-Cadastrar todas as refeições do dia
-Criar e acompanhar suas metas como consumo diario de agua ou quantide de descanso/sono diario
+Cadastrar o o tipo de esporte/pratica realizada.
+Cadastrar series, pesos e tempo realizado.
+Cadastrar todas as refeições do dia.
+Criar e acompanhar suas metas como consumo diario de agua ou quantide de descanso/sono diario.
 
 # Tecnologias
-Node.js
-Next.js
-Docker
-Postgress SQL
+Node.js.
+Next.js.
+Docker.
+Postgress SQL.
 
 # Versões e atualizações
 
